@@ -36,26 +36,21 @@ Divide & Conquer
 📥 Download uploaded/processed data
 
 🏗️ Project Structure
-my-project/
-│── MULTI-STRATEGY/
-│   │── app.py                # Main Flask application
-│   │── utils/
-│   │   ├── datasets.py       # Dataset loading (TSP, Knapsack, Graph)
-│   │   ├── bench.py          # Benchmarking functions
-│   │── algorithms/
-│   │   ├── greedy.py
-│   │   ├── d_p.py
-│   │   ├── backtracking.py
-│   │   ├── branch_and_bound.py
-│   │   ├── divide_and_conquer.py
-│   │── templates/
-│   │   ├── index.html        # UI
-│   │── static/               # CSS, JS, assets
-│   │── data/                 # Uploaded datasets
-│   ├── requirements.txt      # Dependencies
+
+
+
+
+
+
+
+
+<img width="682" height="525" alt="image" src="https://github.com/user-attachments/assets/8b41772c-d60b-44b4-8b5e-f3e3b7decacf" />
 
 ⚙️ Installation
+
 1️⃣ Clone Repository
+
+
 git clone https://github.com/your-username/multi-strategy-optimization.git
 cd multi-strategy-optimization/MULTI-STRATEGY
 
